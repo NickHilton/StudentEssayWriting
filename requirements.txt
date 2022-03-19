@@ -1,0 +1,7 @@
+autocorrect==2.6.1
+jupyter==1.0.0
+numpy==1.22.3
+pandas==1.4.1
+scikit-learn==0.24.2
+torch==1.11.0
+transformers==4.17.0
